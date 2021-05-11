@@ -1,6 +1,6 @@
 - 👋 Hey there! I’m Swatishree Mahapatra, a CSE student from NIT, rourkela.✨
-- 👀 Interest? I like learning and trying new stuff so I have forgotten if I had any particular interest.
-- 🌱 I’m currently learning more about development since I am just a newbie to this field and I'm already lovin' it!
+- 👀 Interest? Exploration above everything.
+- 🌱 A development newbie, getting started with open source and I'm already lovin' it!
 
 
 <!---
