@@ -1,6 +1,30 @@
+
+<!--<h3 align="center">
+![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png)
+</h3> -->
+
+![I'm Swatishree (60 x 20 in) (40 x 12 in)](https://user-images.githubusercontent.com/75534568/137781323-33ebbb53-db5e-4533-b3ec-565e14a554a0.gif)
+
+<p align="center">
+  नमस्ते (Namaste)
+
+</p>
+
+---
 - 👋 Hey there! I’m Swatishree Mahapatra, a CSE student from NIT, rourkela.✨
 - 👀 Interest? Exploration.
 - 🌱 A development newbie, getting started with open source and I'm already lovin' it!
+
+
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
+
+- 📫 How to reach me: swatishree1508@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I am too lazy to think of one. (Will update some fun stuff later!)
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Swatishree-Mahapatra&amp;show_icons=true" alt="GitHub Stats"></p>
+
+
 
 
 <!---
