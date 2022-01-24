@@ -11,19 +11,15 @@
 </p>
 
 ---
-- 👋 Hey there! I’m Swatishree Mahapatra, a CSE student from NIT, rourkela.✨
+- 👋 Hey there! I’m Swatishree Mahapatra, a CSE student from NIT, Rourkela.✨
 - 👀 Interest? Exploration.
 - 🌱 A development newbie, getting started with open source and I'm already lovin' it!
-
-
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
-
+- 📚 Currently working on my DSA and problem solving skills.
 - 📫 How to reach me: swatishree1508@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am too lazy to think of one. (Will update some fun stuff later!)
 <h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=Swatishree-Mahapatra&amp;show_icons=true" alt="GitHub Stats"></p>
-
+<p><img src="https://github-readme-stats.vercel.app/api?username=Swatishree-Mahapatra&amp;show_icons=true" alt="GitHub Stats"> <img align='right' src="https://media.giphy.com/media/xUPGcyuPRNjODvvOFO/giphy.gif" width="230" height="230" /> </p>
 
 
 
