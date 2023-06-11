@@ -13,7 +13,7 @@
 ---
 - 👋 Hey there! I am a CSE student from NIT, Rourkela.✨
 - 👀 Interest? Exploration.
-- 🌱 A development newbie, getting started with open source and I'm already lovin' it!
+- 🌱 A development freak, getting started with open source and I'm already lovin' it!
 - 📚 Currently working on my DSA and problem solving skills.
 - 📫 How to reach me: swatishree1508@gmail.com
 - 😄 Pronouns: she/her
